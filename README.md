@@ -1,5 +1,7 @@
 # Liftoff [![Gem Version](https://badge.fury.io/rb/liftoff.png)](http://badge.fury.io/rb/liftoff)
 
+[![Build Status](https://travis-ci.org/mokagio/liftoff.png?branch=mokagio/liftoff++)](https://travis-ci.org/mokagio/liftoff)
+
 **Liftoff is a CLI for configuring opinionated defaults for new Xcode projects.**
 
 * Add default .gitignore and .gitattributes files. Read more about this in our blog post: [Xcode and git: bridging the gap][xcode-gitattributes]
