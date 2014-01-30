@@ -1,4 +1,4 @@
-# Liftoff [![Gem Version](https://badge.fury.io/rb/liftoff.png)](http://badge.fury.io/rb/liftoff) [![Build Status](https://travis-ci.org/mokagio/liftoff.png?branch=mokagio/liftoff++)](https://travis-ci.org/mokagio/liftoff)
+# Liftoff [![Gem Version](https://badge.fury.io/rb/liftoff.png)](http://badge.fury.io/rb/liftoff) [![Build Status](https://travis-ci.org/mokagio/liftoff.png?branch=mokagio/liftoff++)](https://travis-ci.org/mokagio/liftoff) [![Code Climate](https://codeclimate.com/github/mokagio/liftoff.png)](https://codeclimate.com/github/mokagio/liftoff)
 
 **Liftoff is a CLI for configuring opinionated defaults for new Xcode projects.**
 
